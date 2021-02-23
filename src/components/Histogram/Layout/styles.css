@@ -1,0 +1,26 @@
+.histogram-container {
+  text-align: center;
+}
+.title {
+  text-align: center;
+  background: #59d97d;
+  margin-top: 0;
+  color: white;
+  padding: 30px;
+}
+
+.months {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: -35px 25px;
+}
+
+.months span {
+  padding-right: 33px;
+}
+
+.histogram-section {
+  width : 800px;
+  margin: auto;
+}
